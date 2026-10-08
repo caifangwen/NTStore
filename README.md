@@ -1,4 +1,4 @@
-# Fridacai — Next.js + Shopify 独立店铺前端
+# NTStore — Next.js + Shopify 独立店铺前端
 
 基于 Next.js、React 和 Tailwind CSS 构建的电商网站，通过 Shopify Storefront GraphQL API 读取商品与分类，使用 Cart API 管理购物车，并跳转到 Shopify 结账页面完成购买流程。
 
